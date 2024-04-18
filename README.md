@@ -7,10 +7,12 @@ The goal of this project is to examine bank loan data in order to learn more abo
 ## Data Sources
    * The dataset used for this analysis consists of historical bank loan data including: 
       1. information about customers
-	  2. loan terms
-      3. repayment status
-      4. credit scores
-      5. Loan Grade, and other relevant attributes. The data is sourced from the bank's internal database and stored in a MySQL database for easy access and manipulation.
+      2. loan amount
+      3. purpose of loan
+      4. invested fund
+      5. repayment status
+      6. credit scores
+      7. Loan Grade, and other relevant attributes. The data is sourced from the bank's internal database and stored in a MySQL database for easy access and manipulation.
 
 
 ## Analysis Process
