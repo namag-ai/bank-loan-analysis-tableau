@@ -1,7 +1,7 @@
 # Bank Loan Analysis
-  Bank Loan Analysis using Excel, MySQL, Power BI and Tableau.
+  Bank Loan Analysis using Excel, MySQL, Power BI, and Tableau.
 
-The goal of this project is to examine bank loan data in order to learn more about loan performance and customer behavior. The analysis utilizes various tools, such as Tableau for advanced analytics and reporting, Power BI for interactive data visualization, MySQL for database management, and Excel for data pretreatment.
+The goal of this project is to examine bank loan data to learn more about loan performance and customer behavior. The analysis utilizes various tools, such as Tableau for advanced analytics and reporting, Power BI for interactive data visualization, MySQL for database management, and Excel for data pretreatment.
 
 
 ## Data Sources
